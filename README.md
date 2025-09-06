@@ -3,10 +3,10 @@
 
 
 ## 👨‍💻 Sobre mim
-- 🎓 Estudando **Desenvolvimento Web e C#**
-- 🚀 Apaixonado por **tecnologia, inovação e aprendizado contínuo**
-- 🎯 Buscando oportunidades para contribuir em projetos **open source** e profissionais
-- ⚡ Gosto de desafios que envolvam **frontend + backend**
+- 💻 Desenvolvedor Web com experiência em **Frontend (React, Vue, JavaScript, TypeScript, HTML, CSS)** e **Backend (Node.js, C#/.NET, PHP)**
+- 🚀 Apaixonado por criar soluções digitais eficientes e escaláveis
+- 🎯 Interesse em atuar no desenvolvimento de **sistemas web, APIs e aplicações fullstack**
+- 📚 Sempre aprendendo e evoluindo com novas tecnologias
 
 ---
 
