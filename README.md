@@ -1,5 +1,7 @@
 <!-- Banner animado -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1E90FF&height=180&section=header&text=Olá,+sou+o+Roni+👋&fontSize=30&fontColor=fff&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=2f3542&height=80&section=header&text=Olá,+sou+o+Roni+👋&fontSize=28&fontColor=fff"/>
+
+
 
 
 ## 👨‍💻 Sobre mim
@@ -27,11 +29,11 @@
 
 ---
 
-## 📊 Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devronildo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devronildo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devronildo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devronildo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 ---
 
